@@ -35,14 +35,12 @@ elevator_using_sv/
 ├── README.md
 │
 ├── elevator_using_sv.srcs/
-│   ├── sources_1/
-│   │     └── elevator.sv
-│   │
-│   └── sim_1/
-│         ├── elevator_tb.sv
-│         └── elevator_tb.v
-│
-└── Reports/
+   ├── sources_1/
+   │     └── elevator.sv
+   │
+   └── sim_1/
+         ├── elevator_tb.sv
+         └── elevator_tb.v
 ```
 
 ---
@@ -101,17 +99,3 @@ Run Behavioral Simulation to verify the design or synthesize the project for FPG
 ## Author
 
 **Jay Jain**
-
-Electronics & Communication Engineering Student
-
-Aspiring RTL Design & Design Verification Engineer
-
-**Areas of Interest**
-
-* RTL Design
-* Digital Design
-* SystemVerilog
-* FPGA Design
-* Functional Verification
-
-GitHub: https://github.com/jayjain2365
