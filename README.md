@@ -46,24 +46,6 @@ This project focuses on writing clean, synthesizable RTL and verifying its funct
 
 ---
 
-## Getting Started
-
-Clone the repository:
-
-```bash
-git clone https://github.com/jayjain2365/elevator_using_sv.git
-```
-
-Open the project in **Xilinx Vivado** and load:
-
-```text
-elevator_using_sv.xpr
-```
-
-Run Behavioral Simulation to verify the design or synthesize the project for FPGA implementation.
-
----
-
 ## Future Improvements
 
 * Support for configurable number of floors
