@@ -22,28 +22,6 @@ This project focuses on writing clean, synthesizable RTL and verifying its funct
 * Functional verification using a SystemVerilog testbench
 * Vivado-compatible project structure
 
----
-
-## Project Structure
-
-```text
-elevator_using_sv/
-│
-├── elevator_using_sv.xpr
-├── constraints.xdc
-├── .gitignore
-├── README.md
-│
-├── elevator_using_sv.srcs/
-   ├── sources_1/
-   │     └── elevator.sv
-   │
-   └── sim_1/
-         ├── elevator_tb.sv
-         └── elevator_tb.v
-```
-
----
 
 ## Skills Demonstrated
 
